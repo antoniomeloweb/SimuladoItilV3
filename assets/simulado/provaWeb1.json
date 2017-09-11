@@ -1,0 +1,927 @@
+{
+    "prova": {
+        "titulo": "prova itil 1",
+        "questoes": [
+            {
+                "numero": "1",
+                "resposta": "a",
+                "enunciado": "Qual é a MELHOR descrição de um acordo de nível operacional (ANO)?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Um acordo entre o provedor de serviços e outra parte da mesma organização"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Um acordo entre o provedor de serviços e uma organização externa"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Um documento que descreve para um cliente como os serviço serão operados diariamente"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Um documento que descreve os serviços de negócio para a equipe operacional"
+                    }
+                ]
+            },
+            {
+                "numero": "2",
+                "resposta": "c",
+                "enunciado": "Qual afirmação sobre o comitê consultivo de mudança emergencial (CCME) está CORRETA?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "O CCME considera todas as requisições de mudança de alta prioridade"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Uma das tarefas do CCME é a revisão das mudanças emergenciais concluídas"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "O CCME será usado para mudanças emergenciais onde pode não haver tempo para convocar o CCM completo"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "O CCME será presidido pelo diretor de TI"
+                    }
+                ]
+            },
+            {
+                "numero": "3",
+                "resposta": "d",
+                "enunciado": "Em termos de agregar valor ao negócio, qual dos itens seguintes descreve a contribuição da operação de serviço?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "O custo do serviço é desenhado, previsto e validado"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Medidas para otimização são identificadas"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "O valor do serviço é modelado"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "O valor do serviço é visível aos clientes"
+                    }
+                ]
+            },
+            {
+                "numero": "4",
+                "resposta": "b",
+                "enunciado": "Qual dos itens a seguir é responsabilidade do gerenciamento de fornecedor para negociar e realizar acordos?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "O portfólio de serviço"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Contratos com terceiros"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Acordos de nível operacional (ANOs)"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Acordos de nível de serviço (ANSs)"
+                    }
+                ]
+            },
+            {
+                "numero": "5",
+                "resposta": "a",
+                "enunciado": "Quais são os cinco estágios do ciclo de vida de serviço propostos pela ITIL?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Estratégia de Serviço, Desenho de Serviço, Transição de Serviço, Operação de Serviço e Melhoria Continuada de Serviço"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Proposição de Serviço, Desenho de Serviço, Transição de Serviço, Operação de Serviço e Melhoria Continuada de Serviço"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Estratégia de Serviço, Desenho de Serviço, Entrega de Serviço, Operação de Serviço e Melhoria Continuada de Serviço"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Estratégia de Serviço, Desenho de Serviço, Transição de Serviço, Suporte de Serviço e Melhoria Continuada de Serviço"
+                    }
+                ]
+            },
+            {
+                "numero": "6",
+                "resposta": "a",
+                "enunciado": "Qual tipo de linha de base (baseline) captura a estrutura, conteúdo e detalhes da infraestrutura e representa um conjunto de itens que estão relacionados uns aos outros?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Linha de base da configuração"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Linha de base de mudança"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Linha de base de ativos"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Linha de base de projetos"
+                    }
+                ]
+            },
+            {
+                "numero": "7",
+                "resposta": "b",
+                "enunciado": "Como você chamaria os grupos de pessoas que se importam com as atividade, metas, recursos e entregáveis do gerenciamento de serviços?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Certificadores"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Partes interessadas"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Empregadores"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Regulamentadores"
+                    }
+                ]
+            },
+            {
+                "numero": "8",
+                "resposta": "b",
+                "enunciado": "A consideração da criação de valor é um princípio de qual etapa do ciclo de vida do serviço?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Desenho de serviço"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Estratégia de serviço"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Transição de serviço"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Melhoria contínua de serviço"
+                    }
+                ]
+            },
+            {
+                "numero": "9",
+                "resposta": "c",
+                "enunciado": "Qual processo é responsável por revisar o Acordo de Nível Operacional (ANO) regularmente?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Gerenciamento de Portfólio de Serviço"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Gerenciamento de Fornecedor"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Gerenciamento do Nível de Serviço"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Gerenciamento da Demanda"
+                    }
+                ]
+            },
+            {
+                "numero": "10",
+                "resposta": "c",
+                "enunciado": "Qual dos seguintes pode ser descrito como “Unidades de organização independentes”?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Procedimentos"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Papéis"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Funções"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Processos"
+                    }
+                ]
+            },
+            {
+                "numero": "11",
+                "resposta": "a",
+                "enunciado": "Um técnico usa uma técnica pré-definida para restaurar o serviço já que o incidente havia sido visto antes. Isto é um exemplo de qual das opções abaixo?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Uma solução de contorno"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Uma habilidade de serviço"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Um alerta"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Uma mudança padrão"
+                    }
+                ]
+            },
+            {
+                "numero": "12",
+                "resposta": "c",
+                "enunciado": "Qual das opções abaixo é uma característica de um modelo de incidente?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Significa que tipos de incidentes conhecidos nunca ocorrerão"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Garante que todos os incidentes são de fácil solução"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Descreve etapas pré-definidas para tratar determinados tipos de incidentes"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Facilitar, identificar e diagnosticar problemas"
+                    }
+                ]
+            },
+            {
+                "numero": "13",
+                "resposta": "c",
+                "enunciado": "Qual afirmação sobre o relacionamento entre o Sistema de Gerenciamento da Configuração (SGC) e o Sistema de Gerenciamento do Conhecimento de Serviço (SGCS) está CORRETA?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Não há relacionamento entre o SGC e o SGCS"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "O SGC forma parte do SGCS"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "O SGCS é parte do SGC"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "O SGC e SGCS são a mesma coisa"
+                    }
+                ]
+            },
+            {
+                "numero": "14",
+                "resposta": "c",
+                "enunciado": "Qual destas afirmações sobre a equipe da Central de Serviço está CORRETA?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "A equipe da Central de Serviço deve representar as visões do cliente durante as negociações do Acordo de Nível de Serviço (ANS)"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Habilidades técnicas são mais importantes para a Central de Serviço do que conhecimento do negócio ou habilidades interpessoais."
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Conscientização da cultura e prioridades do negócio é essencial para a equipe da Central de Serviço executar bem seu trabalho"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "A equipe da Central de Serviço requer menos treinamentos do que outros membros do departamento de TI"
+                    }
+                ]
+            },
+            {
+                "numero": "15",
+                "resposta": "a",
+                "enunciado": "Qual processo considera as seguintes opções? 1. “Big-Bang” e por etapas 2. Empurrar e Puxar 3. Automatizada e Manual",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Gerenciamento de Liberação e Implantação"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Gerenciamento de Mudança"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Gerenciamento de Problema"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Gerenciamento de Evento"
+                    }
+                ]
+            },
+            {
+                "numero": "16",
+                "resposta": "a",
+                "enunciado": "Qual dos seguintes é o MELHOR exemplo de uma solução de contorno?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Um técnico executa um roteiro para temporariamente desviar as impressões para uma impressora alternativa até que uma correção permanente seja aplicada"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Um dispositivo funciona de maneira intermitente, permitindo que o usuário continue a trabalhar em níveis de desempenho degradados enquanto o técnico faz o diagnóstico do incidente"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Um técnico tenta várias abordagens para resolver um incidente. Uma delas funciona, embora não se saiba o por quê."
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Após informar o incidente para a Central de Serviço, o usuário trabalha em tarefas alternativas enquanto o problema é identificado e resolvido"
+                    }
+                ]
+            },
+            {
+                "numero": "17",
+                "resposta": "a",
+                "enunciado": "Quais papéis são definidos no modelo da Matriz de Atribuição de Responsabilidades RPCI (em inglês, RACI)?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Responsável, Prestador de Contas, Consultado, Informado"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Realista, Prestador de Contas, Consultado, Informado"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Responsável, Prestador de Contas, Corrigido, Informado"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Responsável, Alcançável, Consultado, Informado"
+                    }
+                ]
+            },
+            {
+                "numero": "18",
+                "resposta": "d",
+                "enunciado": "Em qual fase do ciclo de vida do serviço seria decidido quais serviços devem ser oferecidos e para quem serão oferecidos?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Operação de Serviço"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Desenho de Serviço"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Melhoria de Serviço Continuada"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Estratégia de Serviço"
+                    }
+                ]
+            },
+            {
+                "numero": "19",
+                "resposta": "a",
+                "enunciado": "Qual dos seguintes as métricas de tecnologia medem?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Componentes"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "O serviço de ponta a ponta"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Processos"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Satisfação do Cliente"
+                    }
+                ]
+            },
+            {
+                "numero": "20",
+                "resposta": "c",
+                "enunciado": "Qual processo é responsável pela discussão dos relatórios com os clientes mostrando se os serviços estão cumprindo as suas metas?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Gerenciamento da disponibilidade"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Melhoria contínua de serviço"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Gerenciamento do nível de serviço"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Gerenciamento de mudança"
+                    }
+                ]
+            },
+            {
+                "numero": "21",
+                "resposta": "b",
+                "enunciado": "O gerenciamento de risco eficaz requer tipos específicos de ação. Qual das seguintes seria a MELHOR maneira de gerenciar riscos?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Controle da exposição ao risco e investimento de capital"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Identificação de risco, análise e gerenciamento da exposição ao risco"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Treinamento de gerenciamento de risco para toda a equipe e identificação de riscos"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Treinamento de toda a equipe e investimento de capital"
+                    }
+                ]
+            },
+            {
+                "numero": "22",
+                "resposta": "d",
+                "enunciado": "Em qual documento é esperado ver um resumo das realizações reais de serviço em relação as metas?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Acordo de nível de serviço (ANS)"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Acordo de nível operacional (ANO)"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Plano de capacidade"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Gráfico de Monitoração do Acordo de Nível de Serviço (MANS)"
+                    }
+                ]
+            },
+            {
+                "numero": "23",
+                "resposta": "c",
+                "enunciado": "Qual das opções seguintes NÃO é um exemplo reconhecido de um tipo de provedor de serviços no âmbito da ITIL?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Interno"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Externo"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Central de Serviço"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Unidade de Serviços Compartilhados"
+                    }
+                ]
+            },
+            {
+                "numero": "24",
+                "resposta": "a",
+                "enunciado": "Com qual processo o gerenciamento de problemas está propenso a compartilhar sistemas de códigos de categorização e impacto?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Gerenciamento de incidente"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Gerenciamento da capacidade"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Gerenciamento da continuidade de serviços de TI"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Gerenciamento da configuração e ativo de serviço"
+                    }
+                ]
+            },
+            {
+                "numero": "25",
+                "resposta": "b",
+                "enunciado": "Em qual estágio do ciclo de vida do serviço são encontradas descrições detalhadas do gerenciamento de catálogo de serviço, gerenciamento de segurança da informação e gerenciamento de fornecedor?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Transição de serviços"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Desenho de serviço"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Estratégia de serviço"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Operação de serviço"
+                    }
+                ]
+            },
+            {
+                "numero": "26",
+                "resposta": "a",
+                "enunciado": "Um erro conhecido foi criado após a conclusão do diagnóstico de um problema, mas antes de uma solução de contorno ser encontrada. Isso é uma abordagem válida?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Sim: para efeito de informação, um registro de erro conhecido pode ser criado no momento em que for útil cria-lo"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Não: um registros de erro conhecido deve ser criado junto com a próxima liberação do serviço"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Não: o registro de erro conhecido deve ser criado antes do problema ser registrado"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Não: um registro de erro conhecido é criado quando o incidente original é gerado"
+                    }
+                ]
+            },
+            {
+                "numero": "27",
+                "resposta": "b",
+                "enunciado": "Qual das seguintes NÃO é uma responsabilidade do gerenciamento de catálogo de serviço?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Assegurar que todos os serviços operacionais estejam registrados no catálogo de serviços"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Garantir que os acordos de nível de serviço sejam mantidos"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Garantir que as informações no catálogo de serviços sejam precisas"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Garantir que as informações no catálogo de serviços estejam de acordo com informações do portfólio de serviços"
+                    }
+                ]
+            },
+            {
+                "numero": "28",
+                "resposta": "d",
+                "enunciado": "Qual dos seguintes é um objetivo do gerenciamento de liberação e implantação?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Garantir que o risco de negócio perante mudanças é otimizado"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Padronizar métodos e procedimentos utilizados para o manuseio rápido e eficiente de todas as liberações"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Garantir que todas as mudanças nos ativos de serviços e itens de configuração (ICs) sejam registradas no sistema de gerenciamento da configuração (SGC)"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Definir e acordar planos de liberação e implantação com clientes e partes interessadas"
+                    }
+                ]
+            },
+            {
+                "numero": "29",
+                "resposta": "b",
+                "enunciado": "Qual das seguintes NÃO é uma fonte de melhores práticas?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Pesquisa acadêmica"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Tecnologia"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Padrões"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Experiência interna"
+                    }
+                ]
+            },
+            {
+                "numero": "30",
+                "resposta": "a",
+                "enunciado": "Qual dos seguintes identifica o propósito da coordenação de desenho?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Prover um ponto único de controle para todas as atividades e processos do estágio de desenho de serviço do ciclo de vida de serviço"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Controlar todos os relacionamentos com fornecedores, desde a concepção até o ambiente de produção"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Garantir que todos os desenhos de serviço tenham a disponibilidade desenhada"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Desenhar todos os vínculos entre todos os processos de desenho de serviço com todos os outros processos no ciclo de vida de serviço"
+                    }
+                ]
+            },
+            {
+                "numero": "31",
+                "resposta": "b",
+                "enunciado": "Um pacote de desenho de serviço (PDS) normalmente seria produzido para quais dos seguintes?<br/>1. Um novo serviço de TI<br/>2. Uma mudança de alto impacto em um serviço de TI<br/>3. Uma mudança emergencial em um serviço de TI<br/>4. Uma retirada (descontinuação) de um serviço de TI",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "2, 3 e 4 apenas"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "1, 2 e 4 apenas"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Todas as opções"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Nenhuma da opções"
+                    }
+                ]
+            },
+            {
+                "numero": "32",
+                "resposta": "c",
+                "enunciado": "Quais dos seguintes processos normalmente seriam realizados pela central de serviço? 1. Gerenciamento da capacidade 2. Cumprimento de requisição 3. Gerenciamento de demanda 4. Gerenciamento de incidente",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Todas as opções"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "3 e 4 apenas"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "2 e 4 apenas"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "2 apenas"
+                    }
+                ]
+            },
+            {
+                "numero": "33",
+                "resposta": "d",
+                "enunciado": "Qual é o foco primário do gerenciamento da capacidade de negócio?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Revisão de toda a capacidade acordada com os fornecedores e contratos de apoio com o gerenciamento de fornecedor"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Gerenciamento, controle e previsão do desempenho e capacidade de ponta a ponta dos serviços de TI em operação"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Gerenciamento, controle e previsão do desempenho, utilização e capacidade de elementos individuais de tecnologia"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Futuros requisitos de negócio para serviços de TI são quantificados, desenhados, planejados e implementados em tempo hábil"
+                    }
+                ]
+            },
+            {
+                "numero": "34",
+                "resposta": "d",
+                "enunciado": "Qual dos seguintes é responsável pela execução das atividades de um processo?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Dono de processo"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Gerente de mudança"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Gerente de serviço"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Praticante de processo"
+                    }
+                ]
+            },
+            {
+                "numero": "35",
+                "resposta": "d",
+                "enunciado": "Quais são os três tipos de métricas que uma organização pode coletar para apoiar a melhoria de serviço continuada (MSC)?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Fator crítico de sucesso (FCS), Principal indicador de desempenho (PID), atividades"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Retorno sobre o investimento (ROI), valor sobre o investimento (VOI), qualidade"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Estratégica, tática e operacional"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Tecnologia, processo e serviço"
+                    }
+                ]
+            },
+            {
+                "numero": "36",
+                "resposta": "d",
+                "enunciado": "Qual das seguintes afirmações descreve MELHOR o escopo das atividades de planejamento e suporte da transição?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "É mandatório que todas as mudanças estejam sujeitas a atividade de planejamento e suporte da transição"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Somente mudanças em sistemas críticos de negócio"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Somente mudanças que introduzem novos serviços"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Quaisquer mudanças que a organização acredita que poderia se beneficiar"
+                    }
+                ]
+            },
+            {
+                "numero": "37",
+                "resposta": "a",
+                "enunciado": "Qual das seguintes descreve MELHOR os parceiros na frase:<br/>-(pessoas, processo, produtos e parceiros)?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Fornecedores, fabricantes e terceiros"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Departamentos internos"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "A função gerenciamento de instalações"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Clientes"
+                    }
+                ]
+            },
+            {
+                "numero": "38",
+                "resposta": "a",
+                "enunciado": "Quais das seguintes são razões da ITIL ser bem sucedida?<br/>1. É independente de fornecedores<br/>2. Não é prescritiva<br/>3. Representa melhores práticas",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Todas as opções"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "1 e 3 apenas"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "2 e 3 apenas"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "1 e 3 apenas"
+                    }
+                ]
+            },
+            {
+                "numero": "39",
+                "resposta": "d",
+                "enunciado": "Qual das seguintes afirmações NÃO faz parte da proposição de valor do estágio de desenho de serviço?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Melhor qualidade de serviço"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Melhor alinhamento do serviço com objetivos de negócio"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Redução do custo total de propriedade"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Melhor balanceamento de conhecimento técnico para suportar serviços em operação"
+                    }
+                ]
+            },
+            {
+                "numero": "40",
+                "resposta": "c",
+                "enunciado": "Quais das seguintes são categorias de eventos?",
+                "alternativas": [
+                    {
+                        "alt": "a",
+                        "texto": "Programado, cancelado, emergencial"
+                    },
+                    {
+                        "alt": "b",
+                        "texto": "Operação normal, programado, normal"
+                    },
+                    {
+                        "alt": "c",
+                        "texto": "Operação normal (informational), operação não usual mas não exceção (warning), exceção (exception)"
+                    },
+                    {
+                        "alt": "d",
+                        "texto": "Atenção, reativo, proativo"
+                    }
+                ]
+            }
+	]
+    }
+}
